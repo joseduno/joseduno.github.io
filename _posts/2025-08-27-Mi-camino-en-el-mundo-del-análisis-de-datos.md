@@ -2,7 +2,7 @@
 title: Mi camino en el mundo del análisis de datos
 date: 2025-08-27 20:57:00 -300
 categories: [Carrera en analisis de datos, Mi camino en datos]
-tags: [sql, python, power bi, tableau, qlik, excel, etl, modelado de datos, dashboards, analista de datos, ciencia de datos, visualizacion de datos, automatizacion, databricks, spark, computacion en la nube]
+tags: [sql, python, power bi, tableau, qlik, excel, etl, modelado de datos, dashboards, analisis de datos, ciencia de datos, visualizacion de datos, automatizacion, databricks, spark, computacion en la nube]
 ---
 
 # Mi camino en el mundo del análisis de datos  
