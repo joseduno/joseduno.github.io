@@ -2,7 +2,7 @@
 title: El autoaprendizaje en datos. Cómo la curiosidad y el error se convierten en tus mejores maestros
 date: 2025-09-06 15:22:00 -300
 categories: [Autoaprendizaje, Habilidades Blandas, Crecimiento Profesional, Carrera en Datos]
-tags: [curiosidad, errores, curiosidad, aprendizaje, ciencia de datos, ingenieria de datos, analisis de datos, tecnologia]
+tags: [curiosidad, errores, aprendizaje, ciencia de datos, ingenieria de datos, analisis de datos, tecnologia]
 ---
 
 # Aprender por tu cuenta, clave para crecer como ingeniero, analista o científico de datos
