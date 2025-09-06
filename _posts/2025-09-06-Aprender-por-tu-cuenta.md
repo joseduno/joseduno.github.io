@@ -1,8 +1,8 @@
 ---
-title: El autoaprendizaje en datos. cómo la curiosidad y el error se convierten en tus mejores maestros
+title: El autoaprendizaje en datos. Cómo la curiosidad y el error se convierten en tus mejores maestros
 date: 2025-09-06 15:22:00 -300
-categories: [Business Intelligence]
-tags: [power bi, dashboards, visualizacion de datos, modelado de datos, sql, python, analisis de datos, mejores practicas bi, kpi, storytelling, data-driven decisions]
+categories: [Autoaprendizaje, Habilidades Blandas, Crecimiento Profesional, Carrera en Datos]
+tags: [curiosidad, errores, curiosidad, aprendizaje, ciencia de datos, ingenieria de datos, analisis de datos, tecnologia]
 ---
 
 # Aprender por tu cuenta, clave para crecer como ingeniero, analista o científico de datos
